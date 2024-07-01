@@ -100,4 +100,16 @@
         android:id="@+id/subbt">
 
     </androidx.appcompat.widget.AppCompatButton>
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="1.5in"
+        android:layout_height="wrap_content"
+        android:background="#00A200"
+        android:text="View Al"
+        android:textColor="@color/white"
+        android:textSize="18dp"
+        android:padding="8dp"
+        android:layout_marginTop="20px"
+        android:id="@+id/vall">
+
+    </androidx.appcompat.widget.AppCompatButton>
 </LinearLayout>
